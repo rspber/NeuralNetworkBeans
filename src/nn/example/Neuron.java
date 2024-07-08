@@ -23,7 +23,7 @@ public class Neuron {
 	private Random random = new Random();
 
 	private double random_1_1() {
-		return 1 - 2 * random.nextDouble();
+		return 2 * random.nextDouble() - 1;   // -1 .. 1
 	}
 	
 	private double weightInput1 = random_1_1();

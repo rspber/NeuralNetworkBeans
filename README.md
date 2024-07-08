@@ -10,4 +10,4 @@
 
   And some absolutely not important information,
 
-  the speed of learning of this network depends on LEARNIG_SPEED value.
+  the speed of learning of this network depends on LEARNING_SPEED value.
