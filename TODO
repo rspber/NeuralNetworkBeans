@@ -5,17 +5,3 @@ The test will consist in two AI's placed opposite each other and concluding that
 And despite the significant advantage of python in current solutions, deep learning will be written in Java.
 
   The next incomming repository will be of transfering python to java.
-
-  And here's a quick explanation.
-
-  Porting python to java is, in short, impossible.
-
-  Reasons:
-  - different libraries
-  - diffarent language constructions (lambda, et'cetera)
-
-
-  And that's why I think I should take care of it because no one else can take care of it.
-
-  Well, one might think, good luck. And I answer him, there won't even be a trace of the python left.
-
